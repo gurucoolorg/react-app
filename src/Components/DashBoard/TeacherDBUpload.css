@@ -1,0 +1,23 @@
+.tv-outer-div{
+    margin-top: 5%;
+    margin-left: 30%;
+    
+}
+
+.tv-form{
+    width: 100%;
+
+}
+.card4{
+    width: 50%;
+    height: 100%;
+    border-style: solid;
+    padding-top: 2%;
+    background-color:whitesmoke;
+    
+    /* background-color: #6780f1; */
+    
+    border-radius: 5px;
+    box-shadow: 10px 10px 20px  lightblue;
+
+}

@@ -1,0 +1,56 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+      padding-left: 40;
+      margin-top: 5%;
+      margin-left: 30%;
+    }
+  
+    .Login form {
+      margin: 50 auto;
+      max-width: 500px;
+    }
+  }
+
+.card3{
+    width: 50%;
+    height: 100%;
+    border-style: solid;
+    padding: 2%;
+    
+    
+    /* background-color: #6780f1; */
+    
+    border-radius: 5px;
+    box-shadow: 10px 10px 20px  lightblue;
+
+}
+
+.login_color{
+  /* color: #fff; */
+  padding-left: 20%;
+}
+
+
+
+.login-title{
+  width: 300%;
+}
+.submit{
+  padding-top: 5%;
+  padding-left: 3%;
+  
+}
+
+.form-login{
+  width: 100%;
+}
+.login-button-sub{
+  padding-top: 5%;
+  width: 30% ;
+  padding-left: 30%;
+}
+.col-sm-10 {
+  padding-top: 4% !important;
+  padding-left: 5% !important;
+}

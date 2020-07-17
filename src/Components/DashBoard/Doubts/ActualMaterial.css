@@ -1,0 +1,58 @@
+.card6{
+    width: 100%;
+    height: 100%;
+    border-style: solid;
+    padding-top: 2%;
+    background-color:rgb(135, 208, 241);
+    
+    /* background-color: #6780f1; */
+    
+    border-radius: 5px;
+    box-shadow: 10px 10px 20px  lightblue;
+
+}
+.actual-material-outer-div{
+    width: 70%;
+    margin-left: 15%;
+}
+.am-info-card{
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    margin: 0.5%;
+    border-style: hidden;
+    background-color: rgb(135, 208, 241);
+}
+.am-doubt-accordian{
+    width: 98%;
+    padding-top: 2%;
+    padding-left: 2%;
+
+}
+.am-doubt-card{
+    border-style: hidden;
+    background-color: lightpink;
+    text-align: center;
+
+}
+.am-info-row{
+    height: 100%;
+}
+.doubt-section-card2 p{
+    background-color: aliceblue;
+    padding-left:5%
+}
+.doubt-section-card2{
+    margin-top: 1%;
+    width: 100%;
+    margin-left: 5%;
+    height: 100%;
+    background-color: aliceblue;
+
+}
+.doubt-section-card {
+    background-color: beige;
+    padding-left:5%;
+    width: 100%;
+
+}

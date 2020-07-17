@@ -1,0 +1,26 @@
+.teacher-outer-div{
+    padding-top: 5%;
+    padding-left: 20%;
+}
+
+.teacher-sub-list{
+    width: 70%;
+}
+.teacher-lg-item{
+
+   
+    /* border: 2px solid rgba(0,0,0,0.525); */
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 2%;
+    width: 70%;
+    margin: 2%;
+    border-color: green;
+   
+}
+.teacher-card-list{
+    background-color: transparent;
+    text-align: center;
+    border-style: hidden;
+    height: 50px;
+}

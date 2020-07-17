@@ -1,0 +1,16 @@
+.doubt-topiclist{
+    width:50%;
+    margin-left: 25%;
+}
+.doubt-topiclist-listitem{
+    margin: 1%;
+    /* background-color: lemonchiffon; */
+    background-color: rgb(135, 208, 241);
+}
+.doubt-topilist-card{
+    /* background-color: lemonchiffon; */
+    background-color: rgb(135, 208, 241);
+    border-style: hidden;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
