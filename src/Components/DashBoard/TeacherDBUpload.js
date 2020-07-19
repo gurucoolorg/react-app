@@ -8,11 +8,7 @@ import TeacherNavBar from '../NavBar/TeacherNavBar';
 import Loader from '../Loader/Loader';
 import TeacherUploadNavBar from '../NavBar/TeacherUploadNavBar';
 const config = {
-    bucketName: 'sahilwow',
-    dirName: '', /* optional */
-    region: 'ap-south-1',
-    accessKeyId: 'AKIAVNOU6MDJN4VEXIHS',
-    secretAccessKey: '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',
+    
     
 }
 const history = createBrowserHistory();
